@@ -1,0 +1,8 @@
+.btn-success, .btn-success:hover, .bg-success{
+   background-color: rgb(33, 157, 173) !important;
+   border: none;
+}
+
+.table>:not(:first-child) {
+   border-top: none;
+}
